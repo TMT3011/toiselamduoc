@@ -1,0 +1,1 @@
+print("Đây là trang đăng ký, vui lòng đăng ký để sử dụng hệ thống")
